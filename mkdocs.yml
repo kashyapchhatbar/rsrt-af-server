@@ -1,0 +1,19 @@
+site_name: RSRT-AlphaFold-Server
+theme:
+  name: material
+  icon:
+    annotation: material/arrow-right-circle 
+  features:
+    - content.tabs.link
+plugins:
+  - search
+  - bibtex:
+      bib_file: "references.bib"
+markdown_extensions:
+  - admonition
+  - pymdownx.details  
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - footnotes
+site_url: https://docs.rsrt-af-server.bio.ed.ac.uk
