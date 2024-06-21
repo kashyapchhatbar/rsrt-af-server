@@ -7,7 +7,7 @@
 
 Welcome to the documentation for the Linux server dedicated to running AlphaFold2-multimer, a powerful tool for predicting protein structures. This server was generously donated to the [Rett Syndrome Research Trust (RSRT)](https://reverserett.org/) and is specifically intended to support Rett Syndrome research in [Bird Lab](https://www.ed.ac.uk/biology/groups/bird) and [Cobb Lab](http://www.cobblab.science/) at the University of Edinburgh. 
 
-Rett Syndrome is a rare genetic neurological disorder that affects brain development, leading to severe cognitive and physical impairments. By leveraging [AlphaFold2-multimer](https://github.com/google-deepmind/alphafold) [@Evans2021.10.04.463034], researchers aim to uncover critical insights into the protein structures associated with Rett Syndrome, paving the way for potential therapeutic interventions.
+Rett Syndrome is a rare genetic neurological disorder that affects brain development, leading to severe cognitive and physical impairments. By leveraging [AlphaFold2-multimer](https://github.com/google-deepmind/alphafold) [@Evans2021.10.04.463034], researchers aim to uncover critical insights into the protein-protein interactions implicated in Rett Syndrome pathology.
 
 ## Login
 
